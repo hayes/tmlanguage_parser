@@ -1,0 +1,14 @@
+{
+  "name": "tmlanguage_parser",
+  "version": "0.0.0",
+  "description": "parser for textmate and sublime text language gramer files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Hayes",
+  "license": "MIT",
+  "dependencies": {
+    "xml-object-stream": "~0.2.0"
+  }
+}
